@@ -1,0 +1,17 @@
+.select-dd{
+
+}
+.tutor-dropdown-select{display: inline-block;}
+.tutor-input-search{
+    position: relative;
+}
+.tutor-search-input{
+    padding-left: 26px;
+}
+.tutor-input-group-icon:before{
+    content: "\26B2";
+    position: absolute;
+    font-size: 20px;
+    transform: rotate(-45deg);
+    left: 10px;
+}
