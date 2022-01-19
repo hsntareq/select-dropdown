@@ -175,6 +175,7 @@ window.selectSearchField = (selectElement) => {
                         <span class="ttr-search-filled tutor-input-group-icon color-black-50"></span>
                         <input
                         type="search"
+                        autofocus
                         class="tutor-search-input"
                         placeholder=" Search ... "
                         />
